@@ -1,0 +1,11 @@
+2024-10-06 14:16:53,567 INFO  [main] Starting Chrome browser in normal mode...
+2024-10-06 14:16:56,131 INFO  [main] Navigating to page: https://www.saucedemo.com
+2024-10-06 14:16:56,554 INFO  [main] Finding element with locator: By.xpath: //input[@data-test='username']
+2024-10-06 14:16:56,745 INFO  [main] Finding element with locator: By.xpath: //input[@data-test='password']
+2024-10-06 14:16:56,911 INFO  [main] Finding element with locator: By.xpath: //input[@id='login-button']
+2024-10-06 14:16:57,071 INFO  [main] Finding element with locator: By.xpath: //span[@class='title' and text()='Products']
+2024-10-06 14:16:57,161 INFO  [main] Finding element with locator: By.xpath: //div[@class='inventory_item' and descendant::div[text()='Sauce Labs Backpack']]
+2024-10-06 14:16:57,277 INFO  [main] Finding element with locator: By.xpath: //div[@class='inventory_item' and descendant::div[text()='Sauce Labs Bolt T-Shirt']]
+2024-10-06 14:16:57,360 INFO  [main] Finding element with locator: By.className: shopping_cart_link
+2024-10-06 14:16:57,449 INFO  [main] Finding all element with locator: By.className: inventory_item_name
+2024-10-06 14:16:57,516 INFO  [main] Closing Browser...
