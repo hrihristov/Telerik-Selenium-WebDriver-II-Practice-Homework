@@ -1,0 +1,23 @@
+2024-10-07 16:54:11,764 INFO  [main] Starting Chrome browser in normal mode...
+2024-10-07 16:54:18,090 INFO  [main] Navigating to page: https://id.atlassian.com
+2024-10-07 16:54:18,838 INFO  [main] Finding element with locator: By.xpath: //input[@id='username']
+2024-10-07 16:54:19,775 INFO  [main] Finding element with locator: By.xpath: //input[@id='username']
+2024-10-07 16:54:21,281 INFO  [main] Finding element with locator: By.xpath: //button[@id='login-submit']
+2024-10-07 16:54:21,412 INFO  [main] Finding element with locator: By.xpath: //input[@id='password']
+2024-10-07 16:54:22,765 INFO  [main] Finding element with locator: By.xpath: //button[@id='login-submit']
+2024-10-07 16:54:22,899 INFO  [main] Finding element with locator: By.xpath: //*[@id="root"]/div/div[3]/div/div[1]/div/div[2]/main/div/div[1]/div[2]/div/div/a[1]/div/div
+2024-10-07 16:54:23,432 INFO  [main] Finding element with locator: By.xpath: //*[@id="root"]/div/div[3]/div/div[1]/div/div[2]/main/div/div[1]/div[2]/div/div/a[1]/div/div
+2024-10-07 16:54:27,189 INFO  [main] Finding element with locator: By.xpath: //*[@id="root"]/div/div[3]/div/div[1]/div/div[2]/main/div/div[1]/div[2]/div/div/a[1]/div/div
+2024-10-07 16:54:28,352 INFO  [main] Finding element with locator: By.xpath: //*[@id="root"]/div/div[3]/div/div[1]/div/div[2]/main/div/div[1]/div[2]/div/div/a[1]/div/div
+2024-10-07 16:54:28,874 INFO  [main] Finding element with locator: By.xpath: //*[@id="root"]/div/div[3]/div/div[1]/div/div[2]/main/div/div[1]/div[2]/div/div/a[1]/div/div
+2024-10-07 16:54:28,922 INFO  [main] Finding element with locator: By.xpath: //*[@id="root"]/div/div[3]/div/div[1]/div/div[2]/main/div/div[1]/div[2]/div/div/a[1]/div/div
+2024-10-07 16:54:32,234 INFO  [main] Finding element with locator: By.xpath: //*[@id="ak-main-content"]/span/div/div[4]/table/tbody/tr[5]/td[2]/div/a
+2024-10-07 16:54:33,901 INFO  [main] Finding element with locator: By.xpath: //*[@id="ak-main-content"]/span/div/div[4]/table/tbody/tr[5]/td[2]/div/a
+2024-10-07 16:54:34,616 INFO  [main] Finding element with locator: By.xpath: //*[@id="ak-side-navigation"]/div/div[1]/div/nav/div[2]/div/div/div/div/div[1]/div[2]/div[2]/a[3]/span/div
+2024-10-07 16:54:35,686 INFO  [main] Finding element with locator: By.xpath: //*[@id="ak-side-navigation"]/div/div[1]/div/nav/div[2]/div/div/div/div/div[1]/div[2]/div[2]/a[3]/span/div
+2024-10-07 16:54:36,504 INFO  [main] Finding element with locator: By.xpath: //*[@id="ak-side-navigation"]/div/div[1]/div/nav/div[2]/div/div/div/div/div[1]/div[2]/div[2]/a[3]/span/div
+2024-10-07 16:54:36,903 INFO  [main] Finding element with locator: By.xpath: //button[@id='createGlobalItem']
+2024-10-07 16:54:41,027 INFO  [main] Finding element with locator: By.id: type-picker-uid13-label
+2024-10-07 16:54:41,092 INFO  [main] Closing Browser...
+2024-10-07 16:54:41,376 INFO  [main] Starting Chrome browser in normal mode...
+2024-10-07 16:54:43,083 INFO  [main] Closing Browser...
